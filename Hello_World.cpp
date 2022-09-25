@@ -15,7 +15,8 @@ void solve(){
     vector<int> nums(n);
     for(auto & x:nums)  cin>>x;   
 */   
-    cout<<1ll;
+    //cout<<1ll;
+    cout<<"Hello"<<endl;
     
 }
 
