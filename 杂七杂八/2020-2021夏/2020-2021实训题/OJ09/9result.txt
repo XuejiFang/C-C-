@@ -1,0 +1,3 @@
+Case 1: 5, 25, Yes
+Case 2: 15, 225, No
+Case 3: 25, 625, Yes
